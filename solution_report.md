@@ -35,4 +35,4 @@ The proposed AI solution uses Natural Language Processing and Machine Learning m
 
 - Integration with Generative AI
 - Voice-based support
-- Multilingual query handling
+- Multilingual query handling 
